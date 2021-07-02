@@ -1,5 +1,5 @@
 # README
-This repoistory contains the code for the experiments in the paper "Asymptotics of Network Embeddings Learned via Subsampling" [arXiv]().
+This repoistory contains the code for the experiments in the paper "Asymptotics of Network Embeddings Learned via Subsampling" ([arXiv]())
 
 ## Installation instructions
 
