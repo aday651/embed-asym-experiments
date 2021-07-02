@@ -1,0 +1,1 @@
+The files sbm1.npz and sbm2.npz contain the details (namely, the community sizes, and the matrix of within/between community linkage probabilities) to generate the models according to SBM1 and SBM2 in the Experiments section of the paper, along with the calculated minima of the population risk (see custom_scripts/calc_minima_nb.ipynb). 
