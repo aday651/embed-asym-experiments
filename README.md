@@ -1,5 +1,5 @@
 # README
-This repository contains the code for the experiments in the paper "Asymptotics of Network Embeddings Learned via Subsampling" ([arXiv]())
+This repository contains the code for the experiments in the paper "Asymptotics of Network Embeddings Learned via Subsampling" ([arXiv](https://arxiv.org/abs/2107.02363))
 
 ## Installation instructions
 
